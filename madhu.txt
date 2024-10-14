@@ -1,0 +1,5 @@
+#!/bin/bash
+#This file is for variables demo
+a=111
+name="Kastro"
+role="DevOps Trainer"
